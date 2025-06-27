@@ -1,9 +1,9 @@
 ## Hi, I'm Amar 👋
-👨🏻‍💻 Computer Science student at DePauw University (Class of 2027)
-🖥️ Passionate about building full-stack applications and crafting user experiences
-🔧 Focused on writing clean, efficient, and impactful code
-📊 Currently diving into data analytics and data visualization
-🚀 Always pushing the boundaries of innovation and creativity through hands-on learning and collaboration
+👨🏻‍💻 Computer Science student at DePauw University (Class of 2027) <br/>
+🖥️ Passionate about building full-stack applications and crafting user experiences <br/>
+🔧 Focused on writing clean, efficient, and impactful code <br/>
+📊 Currently diving into data analytics and data visualization <br/>
+🚀 Always pushing the boundaries of innovation and creativity through hands-on learning and collaboration <br/>
 
 
 <!--
